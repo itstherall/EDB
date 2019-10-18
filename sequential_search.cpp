@@ -13,7 +13,7 @@ void seq_search(int *v , int size, int key)
 	{
 		if(v[i]== key)
 		{
-			cout << "Find the key in the vector!\n";
+			cout << "Found the key in the vector!\n";
 			tmp = 0;
 			return;
 		}
@@ -25,7 +25,7 @@ void seq_search(int *v , int size, int key)
 
 	if(tmp == 1)
 	{
-		cout << "Don't find the key!\n";
+		cout << "Don't found the key!\n";
 	}
 }
 
