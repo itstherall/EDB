@@ -47,7 +47,7 @@ int main()
 
 	bubble(v, quantidade);
 	
-	//imprimi vetor ordenado:
+	//imprime vetor ordenado:
 	cout << "vetor ordenado: ";
 	for(i = 0 ; i < quantidade ; ++i)
 	{
