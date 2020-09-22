@@ -1,13 +1,13 @@
 # ESTRUTURA DE DADOS 
 Implement data structures and algorithms from classroom EDB.
   
-  // Search algorithms:
+  Search algorithms:
   1.Sequential_search: cpp, C;
   
-  //order algorithms:
+  Order algorithms:
   1..Bubble: cpp;
   
-  //Trees:
+  Trees algorithms:
   1.BinarySearchTree: Java;
   
   
