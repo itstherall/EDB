@@ -5,7 +5,7 @@ Implement data structures and algorithms from classroom EDB.
   1.Sequential_search: cpp, C;
   
   Order algorithms:
-  1..Bubble: cpp;
+  1.Bubble: cpp;
   
   Trees algorithms:
   1.BinarySearchTree: Java;
